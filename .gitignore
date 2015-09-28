@@ -1,10 +1,6 @@
-.classpath
-.project
+.gradle
 .idea
-*.iml
-*.prefs
-*.log
-target/
-.DS_Store
-grails-yammer-metrics-*.zip
-plugin.xml
+build/
+example-app/.gradle
+example-app/build
+grails-yammer-metrics.iml
